@@ -2,6 +2,9 @@ body {
 	font-family: 'Libre Baskerville', serif;
 	/*background: #FCC4E2;*/
 	background: #FFB6C1;
+/*	background-color: #E8849B;
+*/	font-size: 11pt;
+	line-height: 16pt;
 }
 
 .title {
